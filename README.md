@@ -21,7 +21,7 @@ We are doing the following: \
 #### Step 2a : Feature Extraction using Librosa
 code: spectfiles.py \
 This program does the following:
-    1. Extracts Mels from each audio files
+    1. Extracts Mels from each audio files \
     2. Run parallel jobs to save Mels for each audio file in it own pickle file
     
 #### Step 2b : Feature Extraction using wav2vec2
