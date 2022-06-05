@@ -34,7 +34,7 @@ This program does the following:\
 code: features.py:
 This file does the following
 1. Consolidate the multiple feature pickle files (We did it to process in parallel) into one feature file one for librosa and one for wave2vec \
-2. Create labeled dataset by each therapist and emotion. For example: Yared Alemu_fear.csv. In other words we made this binary classification problem \
+2. Create labeled dataset by each therapist and emotion. For example: Yared Alemu_fear.csv. High and medium are given 1 values and low is given 0. In other words we made this binary classification problem \
 3. We also had to balance the data in the sense that for each classification we have have equal number of data points \
 
 #### Step 4 : Model building using Librosa
