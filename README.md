@@ -7,6 +7,7 @@ We will experiment with four models as follows
 
 ## Approach
 
+Update as of June 4th, 2022
 #### Step 1 : Data prepration
 code: data_prep.py \
 We are doing the following: \
