@@ -39,4 +39,4 @@ This file does the following
 
 #### Step 4 : Model building using Librosa
 code: librosaModel.ipynb \
-We fed in librosa features and some basic three layer conv2d to check if results are marginally better than mere chance. We got 54% accuracy. We were hoping for around 60%.
+We fed in librosa features and some basic three layer conv2d to check if results are marginally better than mere chance. We got 47% accuracy. We were hoping for around 60%.
